@@ -1,0 +1,10 @@
+title: Scala Project
+plan:
+- title: Welcome
+  statement: markdowns/welcome.md
+projects:
+  scala:
+    root: /scala-project
+    runner:
+      name: techio/sbt-runner
+      version: 1.0.1-sbt-0.13.15
